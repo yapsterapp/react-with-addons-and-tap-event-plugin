@@ -1,8 +1,8 @@
 React = require("react");
-require("react/addons");
+// require("react/addons");
 
 injectTapEventPlugin = require("react-tap-event-plugin");
 injectTapEventPlugin();
 
-// React.addons={};
-// React.addons.CSSTransitionGroup = require('react-addons-css-transition-group');
+React.addons={};
+React.addons.CSSTransitionGroup = require('react-addons-css-transition-group');

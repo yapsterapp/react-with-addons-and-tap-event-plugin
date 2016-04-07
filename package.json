@@ -2,9 +2,10 @@
   "name": "react-with-addons-and-tap-event-plugin",
   "version": "0.0.1",
   "devDependencies": {
-    "browserify": "^11.1.0",
-    "react": "0.13.3",
-    "react-tap-event-plugin": "0.1.7",
-    "uglify-js": "2.5.0"
+    "browserify": "^13.0.0",
+      "react": "0.14.7",
+      "react-addons-css-transition-group": "0.14.8",
+    "react-tap-event-plugin": "0.2.2",
+    "uglify-js": "2.6.2"
   }
 }
