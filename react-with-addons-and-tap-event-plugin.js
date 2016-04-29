@@ -1,7 +1,5 @@
 React = require("react");
-ReactDOM = require("react-dom");
-ReactDOMCopy = require("react-dom");
-// require("react/addons");
+React.__SECRET_DOM_DO_NOT_USE_OR_YOU_WILL_BE_FIRED = require("react-dom");
 
 injectTapEventPlugin = require("react-tap-event-plugin");
 injectTapEventPlugin();
