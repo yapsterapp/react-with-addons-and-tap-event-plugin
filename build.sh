@@ -1,5 +1,5 @@
 #!/bin/bash
 
-browserify react-with-addons-and-tap-event-plugin.js -o react-with-addons-0.14.7.js
+browserify react-with-addons-and-tap-event-plugin.js -o react-with-addons-15.0.1.js
 
-uglifyjs --compress --output react-with-addons-0.14.7.min.js -- react-with-addons-0.14.7.js
+uglifyjs --compress --output react-with-addons-15.0.1.min.js -- react-with-addons-15.0.1.js
