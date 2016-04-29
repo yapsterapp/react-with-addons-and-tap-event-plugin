@@ -19705,6 +19705,7 @@ module.exports = require('./lib/React');
 },{"./lib/React":59}],172:[function(require,module,exports){
 React = require("react");
 ReactDOM = require("react-dom");
+ReactDOMCopy = require("react-dom");
 // require("react/addons");
 
 injectTapEventPlugin = require("react-tap-event-plugin");

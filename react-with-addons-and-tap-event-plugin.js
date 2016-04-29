@@ -1,5 +1,6 @@
 React = require("react");
 ReactDOM = require("react-dom");
+ReactDOMCopy = require("react-dom");
 // require("react/addons");
 
 injectTapEventPlugin = require("react-tap-event-plugin");
